@@ -1,6 +1,7 @@
 # Hi, I'm John TAGNE 👋
 
-Data & AI Project Leader | Data Product & Governance | BI & Analytics  
+Data & AI Project Leader | Strategy & Governance  
+
 MBA Management & Data Science – Paris 1 Panthéon-Sorbonne
 
 I operate at the intersection of **data, technology, and strategy**, helping organizations transform data into actionable insights, scalable data platforms and AI-driven solutions.
