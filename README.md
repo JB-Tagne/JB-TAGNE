@@ -198,36 +198,28 @@ Agile project delivery
 
 ---
 
-# Education
+# Education & Specialized Training
 
-MBA Management & Data Science  
-IAE Paris Panthéon-Sorbonne
+**MBA Management & Data Science** | *IAE Paris Panthéon-Sorbonne (2024-2025)*
+- **Key areas:** Data Science & Machine Learning, Big Data & Cloud Databases, Data Governance, Digital transformation & Innovation, Project Management, AI Strategy, Analytics-driven Decision Making.
 
-Key areas:
+**Data Upskilling: Advanced Data Engineering & Modern Data Stack** | *Benjamin Dubreu (2026)*
+- **Tech Stack:** Linux & Bash, Python for Data Engineering, Advanced SQL, Git collaborative workflows, FastAPI, Streamlit, Apache Spark, Apache Airflow, Google Cloud Platform (GCP).
 
-Data Science  
-Machine Learning  
-Big Data & Databases  
-Data Governance  
-AI Strategy  
+**Microsoft AI Product Manager Certified** | *Coursera (2025)*
+- **Key areas:** AI Product Strategy, Market Research and Competitive Analysis, Roadmapping, Product Design & UX/UI Fundamentals, AI Product Launch & Post-Launch Management.
 
----
+**Functional IT Project Manager** | *M2i Formation (2024-2025)*
+- **Key areas:** Agile methodologies, Business Analysis and Requirements Management, SQL querying, DevOps fundamentals, Jira & Confluence project management.
 
-## Data Engineering & Modern Data Stack
+**Data Product Management** | *Datascientest (2024)*
+- **Key areas:** Data lifecycle management, Data governance & GDPR, Python & SQL for analytics, Data Visualization (Power BI and Tableau).
 
-Advanced training program
+**Master's Degree – Translation & Localization** | *Université de Lille (2014-2016)*
+- **Focus:** International project management, terminology database management, and automation of multilingual data workflows, Translation and Text Data Handling.
 
-Key topics:
-
-Linux & Bash scripting  
-Python for Data Engineering  
-Advanced SQL & analytics queries  
-Git collaborative workflows  
-API development with FastAPI  
-Data applications with Streamlit  
-Distributed processing with Apache Spark  
-Workflow orchestration with Apache Airflow  
-Cloud data engineering on Google Cloud  
+**Master’s in Advanced European and International Studies** | *CIFE - IEHEI (2013-2014)*
+- **Focus:** International relations, policy analysis, EU History and Politics, Economics and Finance, Project Management and cross-cultural management.
 
 ---
 
