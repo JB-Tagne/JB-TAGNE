@@ -75,7 +75,8 @@ Power BI
 ## Backend & Data Applications
 
 FastAPI  
-Streamlit  
+Streamlit
+Render
 
 ## Development Environment
 
@@ -88,11 +89,12 @@ Git
 GitHub  
 Git Bash  
 
-CI/CD & Code Quality
+## CI/CD & Code Quality
 
 Black  
 PyLint  
 iSort  
+unittest
 
 ## AI & Data Platforms
 
