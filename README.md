@@ -124,6 +124,69 @@ data privacy and compliance
 
 # Featured Projects
 
+## Data Applications & Data Products
+
+### SQL SRS – Interactive SQL Learning App (Data Product)
+
+Repository: **sql-srs**
+
+An interactive SQL training application built with Streamlit and DuckDB, designed to optimize learning through spaced repetition.
+
+Key features:
+
+- Dynamic SQL exercises (JOIN, GROUP BY, WINDOW FUNCTIONS)
+- Automatic query validation and result comparison
+- Spaced repetition system to reinforce long-term learning
+- Progress tracking and exercise prioritization
+- Modular architecture with database-driven content
+
+Tech stack:
+
+Python  
+Streamlit  
+DuckDB  
+
+Demonstrates:
+
+Data product thinking  
+User-centric design  
+Backend + database interaction  
+Learning system design  
+
+---
+
+### Sensor API – Smart Traffic Simulation API
+
+Repository: **sensor-api**
+
+A production-like REST API built with FastAPI to simulate customer traffic across multiple stores and sensors.
+
+Key features:
+
+- Realistic traffic simulation with variability
+- Sensor-level and store-level analytics
+- Handling of edge cases (closures, malfunctions, breaks)
+- Input validation and structured API responses
+- Unit testing and CI pipeline
+- Deployed API with live documentation (Swagger)
+
+Tech stack:
+
+FastAPI  
+Python  
+unittest  
+GitHub Actions  
+Render  
+
+Demonstrates:
+
+Backend engineering  
+API design and deployment  
+Data simulation and modeling  
+Production-ready code practices  
+
+---
+
 ## Machine Learning Projects
 
 Repository: **machine-learning-projects**
@@ -134,7 +197,7 @@ Housing Price Prediction – End-to-End ML pipeline
 Personality Classification ML model  
 Neural Network for Option Pricing  
 MNIST Digit Recognition  
-Iris Classification
+Iris Classification  
 
 Technologies:
 
@@ -176,12 +239,10 @@ Responsible AI strategies
 Interactive summaries generated with NotebookLM:
 
 AI Bias Thesis  
-https://notebooklm.google.com/notebook/7491bf6e-62b6-422c-a0d5-54b6fb2ccf51
+https://notebooklm.google.com/notebook/7491bf6e-62b6-422c-a0d5-54b6fb2ccf51  
 
 AXA Digital Transformation Case Study  
-https://notebooklm.google.com/notebook/eecc5807-d47c-40ad-90be-897e959cc3fc
-
----
+https://notebooklm.google.com/notebook/eecc5807-d47c-40ad-90be-897e959cc3fc  
 
 # Certifications
 
