@@ -231,6 +231,6 @@ Cross-functional leadership · Stakeholder management · Data-driven decision ma
 - **Portfolio / product:** [lareco.work](https://lareco.work/)
 - **GitHub:** [JB-Tagne](https://github.com/JB-Tagne)
 - **Email:** johnborel91@gmail.com
-- **LinkedIn:** John TAGNE
+- **LinkedIn:** [John TAGNE](https://www.linkedin.com/in/john-tagne)
 
 I am always open to discussing **Data, AI, and innovation projects**.
