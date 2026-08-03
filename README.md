@@ -1,343 +1,236 @@
 # Hi, I'm John TAGNE 👋
 
-Data & AI Project Leader | Strategy & Governance  
+**Data & AI Project Leader | Strategy & Governance**
 
-MBA Management & Data Science – Paris 1 Panthéon-Sorbonne
+MBA Management & Data Science — IAE Paris · Panthéon-Sorbonne
 
-I operate at the intersection of **data, technology, and strategy**, helping organizations transform data into actionable insights, scalable data platforms and AI-driven solutions.
+I operate at the intersection of **data, technology, and strategy**, helping organizations turn business challenges into data platforms, AI products, and governance frameworks.
 
-With **9 years of experience in project leadership**, I have managed complex international projects and cross-functional teams. My recent academic and technical training strengthened my expertise in **Data Science, Data Engineering, AI governance and analytics-driven decision making**.
+With **9+ years in project leadership** and recent specialization in Data Science, Data Engineering, and AI governance, I build and ship products that connect strategy to execution.
 
-I focus on translating **business challenges into data and AI transformation initiatives**.
+Currently shipping **[La Reco](https://lareco.work/)** — a talent ↔ mission matching platform for career transitions.
 
 ---
 
-# About Me
+## About Me
 
 My professional journey combines:
 
-• **Project leadership & product thinking**  
-• **Data science and machine learning skills**  
-• **Modern data engineering and cloud architectures**  
-• **AI governance and responsible AI practices**
+- **Project leadership & product thinking**
+- **Data science and machine learning**
+- **Modern data engineering & cloud architectures**
+- **AI governance and responsible AI practices**
 
-I enjoy working at the intersection of:
-
-Data Strategy  
-Artificial Intelligence  
-Data Platforms  
-Machine Learning  
-Data Product Management  
+I enjoy working at the intersection of Data Strategy, Artificial Intelligence, Data Platforms, Machine Learning, and Data Product Management.
 
 ---
 
-# Tech Stack
+## Featured Projects
 
-## Programming
+### 1. La Reco — Talent ↔ Mission Matching Platform
 
-Python  
-SQL  
-R  
-Bash  
+**Live:** [https://lareco.work/](https://lareco.work/) · *private repository*
 
-## Data Science & Machine Learning
+Matching platform connecting talent in career transition with missions and recruiters (FR/EN).
 
-Pandas  
-NumPy  
-Scikit-learn  
-TensorFlow  
-Keras  
-Matplotlib  
-Seaborn  
+**Highlights:**
 
-## Data Engineering & Modern Data Stack
+- Profile catalog, mission board, recruiter briefs, and dashboard flows
+- Matching logic talent ↔ mission
+- Auth, payments, and transactional emails
+- Full i18n FR / EN
 
-Apache Spark  
-Apache Airflow  
-DuckDB  
-Data Pipelines  
-Batch & Streaming Processing  
-
-## Cloud & Data Platforms
-
-Google Cloud Platform (GCP)
-
-BigQuery  
-Cloud Composer  
-Cloud Functions  
-Pub/Sub  
-IAM  
-
-## Data Visualization
-
-Power BI  
-
-## Backend & Data Applications
-
-FastAPI  
-Streamlit
-Render
-
-## Development Environment
-
-Linux (Ubuntu / WSL)  
-Docker  
-
-## Version Control & DevOps
-
-Git  
-GitHub  
-Git Bash  
-
-## CI/CD & Code Quality
-
-Black  
-PyLint  
-iSort  
-unittest
-
-## AI & Data Platforms
-
-Google AI Studio  
-NotebookLM  
-Dust  
+**Stack:** Next.js · TypeScript · Supabase · Tailwind · shadcn/ui · next-intl · Stripe · Resend
 
 ---
 
-# Data Governance & AI Ethics
+### 2. Sack Me! — PM & Data Governance Serious Game
 
-I have a strong interest in **responsible AI and data governance**.
+**Live:** [https://jb-tagne.github.io/sack-me/](https://jb-tagne.github.io/sack-me/) · **Repo:** [sack-me](https://github.com/JB-Tagne/sack-me)
 
-Frameworks & Regulations:
+Career simulation serious game: choose a role, a Mutualis Group subsidiary, and a project type — every bad decision brings you closer to being sacked.
 
-DAMA Data Management Framework  
-GDPR (RGPD)  
-EU AI Act  
+**Highlights:**
 
-Focus areas:
+- 8 subsidiaries · IT / Data-AI project types · 9 roles (PM or Governance)
+- Scripted lots with SQL, Python, dbt, Airflow exercises + PM/governance quizzes
+- Locale FR / EN
 
-AI governance  
-ethical AI deployment  
-data privacy and compliance  
+**Stack:** React 19 · Vite · TypeScript · Vitest
 
 ---
 
-# Featured Projects
+### 3. SQL SRS — Interactive SQL Learning App
 
-## Data Applications & Data Products
+**Repo:** [sql_srs](https://github.com/JB-Tagne/sql_srs)
 
-### SQL SRS – Interactive SQL Learning App (Data Product)
+Interactive SQL training app with spaced repetition, built as a data product.
 
-Repository: **sql-srs**
+**Highlights:**
 
-An interactive SQL training application built with Streamlit and DuckDB, designed to optimize learning through spaced repetition.
-
-Key features:
-
-- Dynamic SQL exercises (JOIN, GROUP BY, WINDOW FUNCTIONS)
+- Dynamic exercises (JOIN, GROUP BY, window functions)
 - Automatic query validation and result comparison
-- Spaced repetition system to reinforce long-term learning
 - Progress tracking and exercise prioritization
-- Modular architecture with database-driven content
 
-Tech stack:
-
-Python  
-Streamlit  
-DuckDB  
-
-Demonstrates:
-
-Data product thinking  
-User-centric design  
-Backend + database interaction  
-Learning system design  
+**Stack:** Python · Streamlit · DuckDB
 
 ---
 
-### Sensor API – Smart Traffic Simulation API
+### 4. Sensor API — Smart Traffic Simulation API
 
-Repository: **sensor-api**
+**Repo:** [sensor_api](https://github.com/JB-Tagne/sensor_api)
 
-A production-like REST API built with FastAPI to simulate customer traffic across multiple stores and sensors.
+Production-like REST API simulating customer traffic across stores and sensors.
 
-Key features:
+**Highlights:**
 
-- Realistic traffic simulation with variability
-- Sensor-level and store-level analytics
-- Handling of edge cases (closures, malfunctions, breaks)
-- Input validation and structured API responses
-- Unit testing and CI pipeline
-- Deployed API with live documentation (Swagger)
+- Realistic traffic simulation with edge cases
+- Sensor- and store-level analytics
+- Input validation, unit tests, CI pipeline
+- Deployed with live Swagger docs
 
-Tech stack:
-
-FastAPI  
-Python  
-unittest  
-GitHub Actions  
-Render  
-
-Demonstrates:
-
-Backend engineering  
-API design and deployment  
-Data simulation and modeling  
-Production-ready code practices  
+**Stack:** FastAPI · Python · unittest · GitHub Actions · Render
 
 ---
 
-## Machine Learning Projects
+### 5. BackMarket — Data Product Case Study
 
-Repository: **machine-learning-projects**
+**Repo:** [data-product-case-study-backmarket](https://github.com/JB-Tagne/data-product-case-study-backmarket)
 
-Projects include:
-
-Housing Price Prediction – End-to-End ML pipeline  
-Personality Classification ML model  
-Neural Network for Option Pricing  
-MNIST Digit Recognition  
-Iris Classification  
-
-Technologies:
-
-Python  
-Scikit-learn  
-TensorFlow  
+Data Product Management case study focused on improving the BackMarket experience.
 
 ---
 
-## Data Science Portfolio
+### 6. MBA Machine Learning Projects
 
-Repository: **data-science-portfolio**
+**Repo:** [MBA-machine-learning-projects](https://github.com/JB-Tagne/MBA-machine-learning-projects)
 
-Projects include:
+Housing price prediction, personality classification, option pricing NN, MNIST, Iris, and more.
 
-Forex exchange rate analysis  
-Metaverse data analysis with R  
-iPhone market intelligence via web scraping  
-
-Demonstrates:
-
-data analysis  
-data cleaning  
-market insights  
-web scraping  
+**Stack:** Python · Scikit-learn · TensorFlow
 
 ---
 
-## AI Governance Research
+### 7. MBA Data Analysis Portfolio
 
-Repository: **ai-governance-research**
+**Repo:** [MBA-data-analysis-portfolio](https://github.com/JB-Tagne/MBA-data-analysis-portfolio)
 
-Includes research work on:
-
-Generative AI bias  
-AI governance frameworks  
-Responsible AI strategies  
-
-Interactive summaries generated with NotebookLM:
-
-AI Bias Thesis  
-https://notebooklm.google.com/notebook/7491bf6e-62b6-422c-a0d5-54b6fb2ccf51  
-
-AXA Digital Transformation Case Study  
-https://notebooklm.google.com/notebook/eecc5807-d47c-40ad-90be-897e959cc3fc  
-
-# Certifications
-
-Project Management Professional – PMP®  
-SAFe Product Owner / Product Manager  
-Professional Scrum Product Owner I  
-Professional Scrum Master I  
-
-Microsoft AI Product Manager Certificate  
-
-Additional certifications in:
-
-Data Product Management  
-AI Project Management  
-Agile project delivery  
+Forex analysis, Metaverse analysis with R, iPhone market intelligence via web scraping.
 
 ---
 
-# Education & Specialized Training
+### 8. MBA AI Governance Research
 
-**MBA Management & Data Science** | *IAE Paris Panthéon-Sorbonne (2024-2025)*
-- **Key areas:** Data Science & Machine Learning, Big Data & Cloud Databases, Data Governance, Digital transformation & Innovation, Project Management, AI Strategy, Analytics-driven Decision Making.
+**Repo:** [MBA-ai-governance-research](https://github.com/JB-Tagne/MBA-ai-governance-research)
 
-**Data Upskilling: Advanced Data Engineering & Modern Data Stack** | *Benjamin Dubreu (2026)*
-- **Tech Stack:** Linux & Bash, Python for Data Engineering, Advanced SQL, Git collaborative workflows, FastAPI, Streamlit, Apache Spark, Apache Airflow, Google Cloud Platform (GCP).
+Research on generative AI bias, AI governance frameworks, and responsible AI strategies.
 
-**Microsoft AI Product Manager Certified** | *Coursera (2025)*
-- **Key areas:** AI Product Strategy, Market Research and Competitive Analysis, Roadmapping, Product Design & UX/UI Fundamentals, AI Product Launch & Post-Launch Management.
+Interactive NotebookLM summaries:
 
-**Functional IT Project Manager** | *M2i Formation (2024-2025)*
-- **Key areas:** Agile methodologies, Business Analysis and Requirements Management, SQL querying, DevOps fundamentals, Jira & Confluence project management.
-
-**Data Product Management** | *Datascientest (2024)*
-- **Key areas:** Data lifecycle management, Data governance & GDPR, Python & SQL for analytics, Data Visualization (Power BI and Tableau).
-
-**Master's Degree – Translation & Localization** | *Université de Lille (2014-2016)*
-- **Focus:** International project management, terminology database management, and automation of multilingual data workflows, Translation and Text Data Handling.
-
-**Master’s in Advanced European and International Studies** | *CIFE - IEHEI (2013-2014)*
-- **Focus:** International relations, policy analysis, EU History and Politics, Economics and Finance, Project Management and cross-cultural management.
+- [AI Bias Thesis](https://notebooklm.google.com/notebook/7491bf6e-62b6-422c-a0d5-54b6fb2ccf51)
+- [AXA Digital Transformation Case Study](https://notebooklm.google.com/notebook/eecc5807-d47c-40ad-90be-897e959cc3fc)
 
 ---
 
-# Professional Experience
+## Tech Stack
 
-Project & Operations Manager – Freelancer  
-2016 – 2025
-
-Led international projects and cross-functional teams while implementing **data-driven workflows and performance monitoring systems**.
-
-Key achievements:
-
-Managed teams of up to 15 contributors  
-Delivered 100+ projects annually  
-Implemented KPI monitoring systems  
-Optimized operational workflows through automation  
-
----
-
-# Key Skills
-
-Cross-functional leadership  
-Stakeholder management  
-Data-driven decision making  
-Strategic thinking  
-Complex problem solving  
-Change management  
-Process optimization  
-Agile project leadership  
+| Area | Tools |
+|------|--------|
+| **Languages** | Python, SQL, TypeScript, R, Bash |
+| **Frontend / Apps** | React, Next.js, Streamlit, FastAPI |
+| **Data Science & ML** | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn |
+| **Data Engineering** | Apache Spark, Apache Airflow, DuckDB, batch & streaming pipelines |
+| **Cloud** | GCP (BigQuery, Cloud Composer, Cloud Functions, Pub/Sub, IAM) |
+| **Platforms** | Supabase, Stripe, Resend, Render |
+| **UI** | Tailwind, shadcn/ui, Power BI |
+| **DevOps & Quality** | Git, GitHub Actions, Docker, Linux/WSL, Black, PyLint, iSort, Vitest, unittest |
+| **AI tools** | Google AI Studio, NotebookLM, Dust |
 
 ---
 
-# Languages
+## Data Governance & AI Ethics
 
-French – Native  
-English – Professional  
-German – Professional  
+Strong focus on **responsible AI and data governance**.
 
----
+**Frameworks & regulations:** DAMA · GDPR (RGPD) · EU AI Act
 
-# Current Focus
-
-I am currently focusing on:
-
-Data & AI Strategy  
-Data & AI Governance   
-Data & AI Management  
-Data & AI Projects
-Data & AI Innovation
+**Focus areas:** AI governance · ethical AI deployment · data privacy & compliance
 
 ---
 
-# Connect With Me
+## Certifications
 
-LinkedIn: John TAGNE  
-Email: johnborel91@gmail.com
+- Project Management Professional (PMP®)
+- SAFe Product Owner / Product Manager
+- Professional Scrum Product Owner I
+- Professional Scrum Master I
+- Microsoft AI Product Manager Certificate
+- Additional certs in Data Product Management, AI Project Management, Agile delivery
 
-I am always open to discussing **Data, AI and innovation projects**.
+---
+
+## Education & Specialized Training
+
+**MBA Management & Data Science** | IAE Paris Panthéon-Sorbonne (2024–2025)  
+Data Science & ML, Big Data & Cloud, Data Governance, Digital Transformation, AI Strategy
+
+**Data Upskilling: Advanced Data Engineering & Modern Data Stack** | Benjamin Dubreu (2026)  
+Linux & Bash, Python for DE, Advanced SQL, FastAPI, Streamlit, Spark, Airflow, GCP
+
+**Microsoft AI Product Manager Certified** | Coursera (2025)
+
+**Functional IT Project Manager** | M2i Formation (2024–2025)
+
+**Data Product Management** | Datascientest (2024)
+
+**Master's — Translation & Localization** | Université de Lille (2014–2016)
+
+**Master's in Advanced European and International Studies** | CIFE – IEHEI (2013–2014)
+
+---
+
+## Professional Experience
+
+**Project & Operations Manager — Freelancer** · 2016–2025
+
+Led international projects and cross-functional teams while implementing data-driven workflows and performance monitoring.
+
+- Managed teams of up to 15 contributors
+- Delivered 100+ projects annually
+- Implemented KPI monitoring systems
+- Optimized operational workflows through automation
+
+**Current focus (2025–2026):** building data & AI products (La Reco, Sack Me!), data engineering upskilling, and AI governance practice.
+
+---
+
+## Key Skills
+
+Cross-functional leadership · Stakeholder management · Data-driven decision making · Strategic thinking · Complex problem solving · Change management · Process optimization · Agile project leadership · Data product thinking
+
+---
+
+## Languages
+
+- French — Native
+- English — Professional
+- German — Professional
+
+---
+
+## Current Focus
+
+- Shipping **[La Reco](https://lareco.work/)**
+- Data & AI strategy, governance, and product building
+- Modern data stack (GCP, Spark, Airflow) applied to real products
+
+---
+
+## Connect With Me
+
+- **Portfolio / product:** [lareco.work](https://lareco.work/)
+- **GitHub:** [JB-Tagne](https://github.com/JB-Tagne)
+- **Email:** johnborel91@gmail.com
+- **LinkedIn:** John TAGNE
+
+I am always open to discussing **Data, AI, and innovation projects**.
