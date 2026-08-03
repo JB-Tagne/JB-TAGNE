@@ -212,9 +212,9 @@ Cross-functional leadership · Stakeholder management · Data-driven decision ma
 
 ## Languages
 
-- French — Native
-- English — Bilingual
-- German — Professional
+- French — Native C2
+- English — Bilingual C1
+- German — Professional B2
 
 ---
 
